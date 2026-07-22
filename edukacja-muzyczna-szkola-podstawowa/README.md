@@ -10,6 +10,8 @@ w polskiej szkole podstawowej. Materiały zgodne z podstawą programową
 |---|---|
 | `Raport-podstawa-programowa-muzyka.docx` (i `.md`) | Raport: oficjalne wymagania, cele kształcenia, treści nauczania, podstawa prawna, ocenianie, źródła. |
 | `scenariusze/Scenariusze-lekcji.docx` (i `.md`) | Gotowe scenariusze lekcji dla klas 1–3, 4–7 oraz chóru/koła wokalnego. |
+| `scenariusze/Akademia-11-listopada.docx` (i `.md`) | Pełny scenariusz akademii na 11 listopada (przebieg, role, repertuar, harmonogram); wariant jasełek. |
+| `scenariusze/Plan-wynikowy-muzyka-klasa-4.docx` (i `.md`) | Roczny rozkład materiału (plan wynikowy) dla klasy 4 — ok. 32 lekcje z odniesieniem do podstawy. |
 | `materialy/Repertuar-i-materialy.docx` (i `.md`) | Repertuar (patriotyczny i dziecięcy), rozśpiewki, ćwiczenia rytmiczne, instrumentarium, źródła nut i podkładów. |
 | `prezentacja/Prezentacja-edukacja-muzyczna.pptx` | Prezentacja dla dyrekcji/rady pedagogicznej (edytowalna). |
 | `prezentacja/Prezentacja-edukacja-muzyczna.pdf` | Ta sama prezentacja w formacie PDF (do wyświetlenia/druku). |

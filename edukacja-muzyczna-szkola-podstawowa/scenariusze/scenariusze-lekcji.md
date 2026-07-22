@@ -1,6 +1,8 @@
 # Scenariusze lekcji śpiewu i muzyki
 ## Szkoła podstawowa – klasy 1–3, 4–7 oraz chór / koło wokalne
 
+*Opracowanie: **Mateusz Pichal**.*
+
 > Scenariusze zgodne z podstawą programową kształcenia ogólnego
 > (Rozporządzenie MEN z 14 lutego 2017 r., Dz.U. 2017 poz. 356 –
 > zał. nr 1: edukacja wczesnoszkolna, zał. nr 2: muzyka kl. IV–VII).

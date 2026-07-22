@@ -1,8 +1,9 @@
 # Edukacja muzyczna i śpiew w szkole podstawowej
 ## Raport: oficjalne wymagania, treści nauczania i podstawa prawna
 
-*Opracowanie dla osoby rozpoczynającej prowadzenie zajęć śpiewu i muzyki
-w polskiej szkole podstawowej. Stan prawny: rok szkolny 2025/2026.*
+*Opracowanie: **Mateusz Pichal**. Materiał dla osoby rozpoczynającej prowadzenie
+zajęć śpiewu i muzyki w polskiej szkole podstawowej. Stan prawny: rok szkolny
+2025/2026.*
 
 ---
 

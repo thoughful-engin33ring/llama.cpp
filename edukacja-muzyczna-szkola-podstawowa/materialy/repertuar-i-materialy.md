@@ -1,6 +1,8 @@
 # Repertuar i materiały dydaktyczne
 ## Pakiet dla nauczyciela śpiewu i muzyki w szkole podstawowej
 
+*Opracowanie: **Mateusz Pichal**.*
+
 > Pakiet uzupełnia *Raport – podstawa programowa* oraz *Scenariusze lekcji*.
 > Repertuar dobrano zgodnie z wymaganiami podstawy programowej
 > (Rozporządzenie MEN z 14 lutego 2017 r., Dz.U. 2017 poz. 356) oraz
