@@ -31,6 +31,10 @@ Podstawa programowa **wprost wymienia** utwory, które uczeń ma umieć wykonać
 - „Deszcz, jesienny deszcz" / „Serce w plecaku" (repertuar żołnierski)
 - „Biały krzyż" (kl. 7, trudniejsza)
 
+**Pieśni historyczne (obecne w zasobach ZPE, na uroczystości)**
+- „Bogurodzica" (najstarsza polska pieśń religijno-patriotyczna)
+- „Gaude Mater Polonia" (hymn na uroczystości, np. rozpoczęcie roku)
+
 > **Kalendarz patriotyczny:** 11 listopada (Narodowe Święto Niepodległości),
 > 3 maja (Święto Konstytucji), 1 sierpnia (Godzina „W"), rocznice szkolne.
 

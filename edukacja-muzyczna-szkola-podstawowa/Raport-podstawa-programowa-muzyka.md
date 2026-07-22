@@ -37,7 +37,13 @@ oraz podstawy programowej kształcenia ogólnego dla szkoły podstawowej […]
     z wyodrębnionym obszarem **„edukacja muzyczna”**;
   - dla **klas IV–VIII** – podstawę programową przedmiotu **„Muzyka”**.
 - Przedmiot **muzyka** realizowany jest w klasach **IV–VII** w wymiarze
-  **1 godziny tygodniowo** (w klasie VIII muzyki już nie ma) [3][4].
+  **1 godziny tygodniowo** (ok. **30 godzin w roku szkolnym**, jednostka 45 min;
+  w klasie VIII muzyki już nie ma) [3][4].
+
+> **Aktualność (stan na 2026 r.):** rozporządzenie z 2017 r. było kilkukrotnie
+> nowelizowane (m.in. Rozporządzenie z 28 czerwca 2024 r., Dz.U. 2024 poz. 996 —
+> tzw. „odchudzenie” podstawy). **Nowelizacja z 2024 r. nie objęła przedmiotu
+> Muzyka** — wymagania opisane w tym raporcie pozostają obowiązujące.
 
 **Dokumenty wspierające (nieobowiązkowe, ale rekomendowane):**
 - *Podstawa programowa kształcenia ogólnego z komentarzem. Szkoła podstawowa –
@@ -107,7 +113,11 @@ Podstawa programowa opisuje **osiągnięcia ucznia** w kilku zakresach:
 
 ### 4.1. Cele kształcenia (wymagania ogólne)
 
-Podstawa programowa przedmiotu „Muzyka” wyznacza **trzy główne cele** [4][5]:
+Treści realizowane są przez **pięć form aktywności muzycznej**: **śpiew**
+(wskazywany jako **najważniejsza** forma wychowania muzycznego), **gra na
+instrumentach**, **ruch przy muzyce**, **słuchanie i percepcja** oraz
+**tworzenie i improwizowanie** muzyki [5]. Podstawa programowa przedmiotu
+„Muzyka” wyznacza **trzy główne cele** [4][5]:
 
 **I. Indywidualna i zespołowa ekspresja muzyczna** — uczeń indywidualnie
 i zespołowo muzykuje, tworzy i improwizuje proste struktury dźwiękowe, rozwijając
@@ -207,7 +217,9 @@ Platforma Edukacyjna (zpe.gov.pl)** prowadzona przez MEiN/ORE [10][11].
   postawa, powaga; śpiew z pamięci);
 - **„Rota”, „Pierwsza Brygada”, „Przybyli ułani pod okienko”, „O mój
   rozmarynie”, „Wojenko, wojenko”, „Marsz, marsz Polonia”** i in.;
-- **„Oda do radości”** — hymn Unii Europejskiej.
+- pieśni historyczne obecne w zasobach ZPE: **„Bogurodzica”**,
+  **„Gaude Mater Polonia”** (uroczystości, kontekst historyczny);
+- **„Oda do radości”** — hymn Unii Europejskiej (wykonanie także instrumentalne).
 
 **Kalendarz uroczystości:** 11 listopada (Narodowe Święto Niepodległości),
 3 maja (Święto Konstytucji), rocznice szkolne — naturalne okazje do prezentacji
